@@ -11,3 +11,6 @@ https://github.com/tqdm/tqdm
 
 ## Search Database
 https://github.com/facebookresearch/faiss 
+
+## Demo ML models
+https://github.com/gradio-app/gradio
