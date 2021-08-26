@@ -14,3 +14,8 @@ https://github.com/facebookresearch/faiss
 
 ## Demo ML models
 https://github.com/gradio-app/gradio
+
+## HTTP benchmark tool
+https://github.com/locustio/locust
+https://github.com/wg/wrk
+https://github.com/giltene/wrk2
