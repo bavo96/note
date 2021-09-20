@@ -19,3 +19,6 @@ https://github.com/gradio-app/gradio
 https://github.com/locustio/locust \
 https://github.com/wg/wrk \
 https://github.com/giltene/wrk2
+
+## Big companies apply ML
+https://github.com/eugeneyan/applied-ml
