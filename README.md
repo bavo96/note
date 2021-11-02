@@ -1,4 +1,4 @@
-# note_repo
+# 1. note_repo
 Some useful repositories
 
 ## Image crawler
@@ -23,8 +23,8 @@ https://github.com/giltene/wrk2
 ## Big companies apply ML
 https://github.com/eugeneyan/applied-ml
 
-# note_courses
+# 2. note_courses
 https://mlcourse.ai
 
-# note_link
+# 3. note_link
 https://www.import.io/post/history-of-deep-learning/?fbclid=IwAR2m3dXA22QSw79rMk1x553lNmVGiIdmTlcQNuziJTbkN2sXR2jQZtn68hk
