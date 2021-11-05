@@ -23,6 +23,9 @@ https://github.com/giltene/wrk2
 ## Big companies apply ML
 https://github.com/eugeneyan/applied-ml
 
+## Feature importance
+https://github.com/slundberg/shap
+
 # 2. note_courses
 https://mlcourse.ai
 
