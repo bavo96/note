@@ -26,6 +26,9 @@ https://github.com/eugeneyan/applied-ml
 ## Feature importance
 https://github.com/slundberg/shap
 
+## Grid search parameters
+https://github.com/optuna/optuna
+
 # 2. note_courses
 https://mlcourse.ai
 
