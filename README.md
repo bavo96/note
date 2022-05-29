@@ -32,5 +32,8 @@ https://github.com/optuna/optuna
 # 2. note_courses
 https://mlcourse.ai
 
+## Edge Detection | Boundary Detection | SIFT Detector
+https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cylrhx
+
 # 3. note_link
 https://www.import.io/post/history-of-deep-learning/?fbclid=IwAR2m3dXA22QSw79rMk1x553lNmVGiIdmTlcQNuziJTbkN2sXR2jQZtn68hk
