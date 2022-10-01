@@ -23,8 +23,9 @@ https://github.com/giltene/wrk2
 ## Big companies apply ML
 https://github.com/eugeneyan/applied-ml
 
-## Feature importance
+## Feature importance (AI explainability) 
 https://github.com/slundberg/shap
+https://github.com/jacobgil/pytorch-grad-cam
 
 ## Grid search parameters
 https://github.com/optuna/optuna
