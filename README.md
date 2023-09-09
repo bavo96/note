@@ -43,3 +43,4 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
 # IV. Others
 - Install gnome tweak to swap keys in Ubuntu
 - Preview file in Ubuntu: `sudo apt-get install gnome-sushi`
+- Auto resize sidebar's icons on Ubuntu: `gsettings set org.gnome.shell.extensions.dash-to-dock icon-size-fixed true`
