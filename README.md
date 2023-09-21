@@ -30,6 +30,9 @@ https://github.com/jacobgil/pytorch-grad-cam
 ## Grid search parameters
 https://github.com/optuna/optuna
 
+## Image similarity
+https://github.com/microsoft/computervision-recipes/blob/1bb489af757fde7c773e16fab87b24305cff4457/scenarios/similarity/01_training_and_evaluation_introduction.ipynb
+
 # II. Courses
 https://mlcourse.ai
 
