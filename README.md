@@ -43,13 +43,13 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
 - https://www.import.io/post/history-of-deep-learning/?fbclid=IwAR2m3dXA22QSw79rMk1x553lNmVGiIdmTlcQNuziJTbkN2sXR2jQZtn68hk
 - Multiple gits: https://medium.com/the-andela-way/a-practical-guide-to-managing-multiple-github-accounts-8e7970c8fd46
 - df command: https://quantrimang.com/cong-nghe/lenh-df-trong-linux-kem-vi-du-167650
-  + df -x squashfs (exclude loop)
-  + df -t ext4 (show only ext4)
-  + df --total (show total space)
-  + df -T (show type of filesystem)
-  + common use:
-    . df -x squashfs -hT --total
-    . df -x squashfs -x tmpfs -hT --total
+  - `df -x squashfs` (exclude loop)
+  - `df -t ext4` (show only ext4)
+  - `df --total` (show total space)
+  - `df -T` (show type of filesystem)
+  - common use:
+    - `df -x squashfs -hT --total`
+    - `df -x squashfs -x tmpfs -hT --total`
 
 # IV. Others
 - Install gnome tweak to swap keys in Ubuntu
