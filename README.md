@@ -51,3 +51,4 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + https://askubuntu.com/questions/1252142/auto-resize-icons-in-ubuntu-dock
 - Add additional hard drive to current PC:
   + https://askubuntu.com/questions/125257/how-do-i-add-an-additional-hard-drive
+  + https://askubuntu.com/questions/90339/how-do-i-set-read-write-permissions-my-hard-drives
