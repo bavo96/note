@@ -49,3 +49,5 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
 - Auto resize sidebar's icons on Ubuntu:
   + `gsettings set org.gnome.shell.extensions.dash-to-dock icon-size-fixed true`
   + https://askubuntu.com/questions/1252142/auto-resize-icons-in-ubuntu-dock
+- Add additional hard drive to current PC:
+  + https://askubuntu.com/questions/125257/how-do-i-add-an-additional-hard-drive
