@@ -60,3 +60,5 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
 - Add additional hard drive to current PC:
   + https://askubuntu.com/questions/125257/how-do-i-add-an-additional-hard-drive
   + https://askubuntu.com/questions/90339/how-do-i-set-read-write-permissions-my-hard-drives
+- Install multiple cuda version:
+  + https://wiki.cs.umd.edu/gamma/view/Installing_multiple_versions_of_cuda_in_a_machine
