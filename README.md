@@ -50,8 +50,10 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   - common use:
     - `df -x squashfs -hT --total`
     - `df -x squashfs -x tmpfs -hT --total`
-
-## IV. Others
+## IV. Papers
+- https://arxiv.org/pdf/1811.04110.pdf
+- https://arxiv.org/pdf/2003.13911.pdf
+## V. Others
 - Install gnome tweak to swap keys in Ubuntu
 - Preview file in Ubuntu: `sudo apt-get install gnome-sushi`
 - Auto resize sidebar's icons on Ubuntu:
