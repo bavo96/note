@@ -34,7 +34,8 @@ https://github.com/optuna/optuna
 https://github.com/microsoft/computervision-recipes/blob/1bb489af757fde7c773e16fab87b24305cff4457/scenarios/similarity/01_training_and_evaluation_introduction.ipynb
 
 ### Latex
-https://en.wikibooks.org/wiki/LaTeX/Tables#The_tabularx_package
+https://en.wikibooks.org/wiki/LaTeX/Tables#The_tabularx_package \
+https://tex.stackexchange.com/questions/2441/how-to-add-a-forced-line-break-inside-a-table-cell
 
 ## II. Courses
 https://mlcourse.ai
