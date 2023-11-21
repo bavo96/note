@@ -70,3 +70,8 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + https://wiki.cs.umd.edu/gamma/view/Installing_multiple_versions_of_cuda_in_a_machine
 - make CUDA report error in detail:
   + CUDA_LAUNCH_BLOCKING=1 python3 main.py
+- Remove nvidia-driver (535 bug):
+  + Remove all cuda sources.list in `/etc/apt/sources.list.d/cuda*` https://forums.developer.nvidia.com/t/unmet-dependencies-nvidia-dkms-535-package-conflict-breaks-ubuntu-22-04-install/265788/4?fbclid=IwAR0eDc0bb-WMQw9016yCL1W9E5pWtAAmOVFvCG8lckb124Z9_GGdnAp6gRc ![image](https://github.com/bavo96/note/assets/27908949/5633aaea-bf7a-426c-8048-e14b9409c6a6)
+  + `sudo apt --fix-broken install`
+  + `sudo dpkg -i --force-overwrite <package>`
+  + `sudo apt -f install`
