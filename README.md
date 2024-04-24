@@ -78,3 +78,5 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
 - Location of applications:
   + `/usr/share/applications`
   + `~/.local/share/applications`
+- Check all comments on github:
+  + Type this into search box: `is:issue commenter:bavo96`
