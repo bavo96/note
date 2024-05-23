@@ -38,7 +38,8 @@ https://en.wikibooks.org/wiki/LaTeX/Tables#The_tabularx_package \
 https://tex.stackexchange.com/questions/2441/how-to-add-a-forced-line-break-inside-a-table-cell
 
 ### Conventional commits: 
-https://www.conventionalcommits.org/en/v1.0.0/
+* Original link: https://www.conventionalcommits.org/en/v1.0.0/
+* Angular original rules: https://github.com/angular/angular/blob/main/CONTRIBUTING.md
 
 #### Commit Message Header
 ```
