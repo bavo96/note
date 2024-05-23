@@ -40,7 +40,8 @@ https://tex.stackexchange.com/questions/2441/how-to-add-a-forced-line-break-insi
 ### Conventional commits: 
 * Original link: https://www.conventionalcommits.org/en/v1.0.0/
 * Angular original rules: https://github.com/angular/angular/blob/main/CONTRIBUTING.md
-
+* Definition of types: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+  
 #### Commit Message Header
 ```
 <type>(<scope>): <short summary>
@@ -71,6 +72,7 @@ Must be one of the following:
 * **perf**: A code change that improves performance
 * **refactor**: A code change that neither fixes a bug nor adds a feature
 * **test**: Adding missing tests or correcting existing tests
+* **chore**: Miscellaneous commits e.g. modifying .gitignore
 
 ##### `Scope`
 Example from Angular:
