@@ -55,6 +55,8 @@ https://www.conventionalcommits.org/en/v1.0.0/
   └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|test
 ```
 The `<type>` and `<summary>` fields are mandatory, the `(<scope>)` field is optional.
+BREAKING CHANGE: a commit that has a footer BREAKING CHANGE:, or appends a ! after the type/scope, introduces a breaking API change (correlating with MAJOR in Semantic Versioning). A BREAKING CHANGE can be part of commits of any type.
+
 ##### `Type`
 
 Must be one of the following:
