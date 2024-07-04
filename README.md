@@ -130,3 +130,6 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + `~/.local/share/applications`
 - Check all comments on github:
   + Type this into search box: `is:issue commenter:bavo96`
+- Open video with special codec:
+  + h264: ffmpeg
+  + itu.h264: gstreamer1.0-plugins-bad:amd64 <none> 1.16.3-0ubuntu1.1
