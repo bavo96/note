@@ -135,3 +135,10 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + itu.h264: gstreamer1.0-plugins-bad:amd64 <none> 1.16.3-0ubuntu1.1
 - Activate F1-F12 on ubuntu:
   + echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode
+## VI. Install Ubuntu 24.01
+- NVIDIA Driver
+- Anaconda
+- Rathole
+- Docker
+- bavovim
+- Brave
