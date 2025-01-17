@@ -134,7 +134,9 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + h264: ffmpeg
   + itu.h264: gstreamer1.0-plugins-bad:amd64 <none> 1.16.3-0ubuntu1.1
 - Activate F1-F12 on ubuntu:
-  + echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode
+  + https://www.hashbangcode.com/article/turning-or-fn-mode-ubuntu-linux
+  + Temporary: echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode
+  + Permanent: echo options hid_apple fnmode=0 | sudo tee -a /etc/modprobe.d/hid_apple.conf
 ## VI. Install Ubuntu 24.01
 - NVIDIA Driver
 - Anaconda
