@@ -137,6 +137,7 @@ https://www.youtube.com/watch?v=7AlwDYmjrcs&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cyl
   + https://www.hashbangcode.com/article/turning-or-fn-mode-ubuntu-linux
   + Temporary: echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode
   + Permanent: echo options hid_apple fnmode=0 | sudo tee -a /etc/modprobe.d/hid_apple.conf
+- 3 fingers drag on ubuntu: https://ubuntuhandbook.org/index.php/2025/03/enable-3-finger-dragging-ubuntu/#google_vignette
 ## VI. Install Ubuntu 24.01
 - NVIDIA Driver
 - Anaconda
